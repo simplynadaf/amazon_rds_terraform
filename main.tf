@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-west-2"  # Specify your AWS region
+  region = "us-west-1"  # Specify your AWS region
 }
 
 # Reference the existing VPC using a variable
