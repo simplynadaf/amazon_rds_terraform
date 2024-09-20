@@ -38,4 +38,4 @@ Follow these steps to start using CloudFormation Git Sync for managing your AWS 
 
 ```bash
 git clone https://github.com/simplynadaf/amazon_rds_terraform.git
-cd cloudformation-git-sync
+cd amazon_rds_terraform
